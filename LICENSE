@@ -631,8 +631,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Sistema Gestión de Notas - Management of notes by creation and modification, allowing to see notes sent, received and not sent.
+    Copyright (C) 2016 Yesica Ibañez, Francisco Iguácel, Ailin Linares (github/blueautomatic), Evangelina Ruiz, Yanela Vela
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
